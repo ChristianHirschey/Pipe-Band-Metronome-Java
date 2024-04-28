@@ -1,2 +1,2 @@
 # Pipe-Band-Metronome-Java
-A basic console output metronome in Java. It has normal metronomic functionality, but is especially intended for bagpipe sets, known as MSRs and Medleys which change time signature and tempo often.
+A basic console output metronome in Java. It has normal metronomic functionality, but is especially intended for bagpipe sets, known as MSRs and Medleys which change time signature and tempo often. Originally was a project for AP Computer Science A and was hosted on Replit, hence not having any sound playback functionality and instead relying on console output text to dictate tempo.
